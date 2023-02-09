@@ -4,7 +4,7 @@ Hi my name is **Andres Hernandez** !
 
 <img align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/nicaragua.png" alt="HTML" width="26px" /> :nicaragua: Programmer and Developer
 
-:open_book: Currently mastering React Native and Next JS.
+:open_book: Currently mastering C# Entity Framework and React Native.
 
 :busts_in_silhouette: I’m looking forward to collaborate on JavaScript projects.
 
