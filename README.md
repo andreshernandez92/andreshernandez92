@@ -6,7 +6,7 @@ Hi my name is **Andres Hernandez** !
 
 :open_book: Currently mastering C# Entity Framework and React Native.
 
-:busts_in_silhouette: I’m looking forward to collaborate on JavaScript projects.
+:busts_in_silhouette: I’m looking forward to collaborate on JavaScript and C# projects.
 
 :fireworks:Goal in 2023: Be hired as a Junior Developer/Programmer/Engineer.
 
@@ -34,7 +34,7 @@ Hi my name is **Andres Hernandez** !
 ## Frameworks
 <img title="Express" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/Expressjs.png" alt="Express" width="140px" /> 
 <img title="React Native" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/react-native.png" alt="React Native" width="140px" /> 
-
+<img title="Entity Framework" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/Entity_Framework.png" alt="React Native" width="140px" /> 
 
 <br /> 
 <br /> 
@@ -45,4 +45,5 @@ Hi my name is **Andres Hernandez** !
 <img title="Nodejs" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/node-js.png" alt="Node JS" width="80px" /> 
 <img title="MySql" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/mysql.png" alt="MySql Server" width="80px" /> 
 <img title="SQL Server" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/sql-server.png" alt="SQL Server" width="80px" /> 
+<img title="NET CORE" align="left" src="https://raw.githubusercontent.com/andreshernandez92/andreshernandez92/main/images/aspnetcore-logo.png" alt="SQL Server" width="80px" /> 
 
