@@ -8,7 +8,7 @@ Hi my name is **Andres Hernandez** !
 
 :busts_in_silhouette: I’m looking forward to collaborate on JavaScript and C# projects.
 
-:fireworks:Goal in 2023: Be hired as a Junior Developer/Programmer/Engineer.
+:fireworks:Goal in 2023: Be hired as a Software Developer/Programmer/Engineer.
 
 ## Languages
 
